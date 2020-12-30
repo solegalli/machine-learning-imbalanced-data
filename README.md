@@ -1,4 +1,4 @@
-﻿## Machine Learning with Imbalanced Data- Code Repository
+﻿## Machine Learning with Imbalanced Data - Code Repository
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-success.svg)
 ![Python 3.7](https://img.shields.io/badge/python-3.7-success.svg)
@@ -63,7 +63,16 @@ Published November, 2020
 
 
 6. **Cost Sensitive Learning**
-	1. Coming Soon
+	1. Types of cost
+	2. Obtaining the Cost
+	3. Missclassification Cost
+	4. Bayes Risk
+	5. MetaCost
 
-
+7. **Probability Calibration**
+	1. Probability Calibration Curves
+	2. Brier Score
+	3. Effect of under and over sampling on Probability Calibration
+	4. Cost Sensitive Learning and Probability Calibration
+	4. Calibrating a Classifier
 
