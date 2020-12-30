@@ -1,7 +1,9 @@
 ﻿## Machine Learning with Imbalanced Data- Code Repository
 
-![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
-![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
+![Python 3.6](https://img.shields.io/badge/python-3.6-success.svg)
+![Python 3.7](https://img.shields.io/badge/python-3.7-success.svg)
+![Python 3.8](https://img.shields.io/badge/python-3.8-success.svg)
+![License](https://img.shields.io/badge/license-BSD-success.svg)
 
 Published November, 2020
 
