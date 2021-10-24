@@ -1,9 +1,8 @@
-﻿## Machine Learning with Imbalanced Data - Code Repository
+﻿![PythonVersion](https://img.shields.io/badge/python-3.6%20|3.7%20|%203.8%20|%203.9-success)
+[![License https://github.com/solegalli/machine-learning-imbalanced-data/blob/master/LICENSE](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/solegalli/machine-learning-imbalanced-data/blob/master/LICENSE)
+[![Sponsorship https://www.trainindata.com/](https://img.shields.io/badge/Powered%20By-TrainInData-orange.svg)](https://www.trainindata.com/)
 
-![Python 3.6](https://img.shields.io/badge/python-3.6-success.svg)
-![Python 3.7](https://img.shields.io/badge/python-3.7-success.svg)
-![Python 3.8](https://img.shields.io/badge/python-3.8-success.svg)
-![License](https://img.shields.io/badge/license-BSD-success.svg)
+## Machine Learning with Imbalanced Data - Code Repository
 
 Published November, 2020
 
