@@ -6,11 +6,13 @@
 
 Published November, 2020
 
-[<img src="./imbalanced_data_logo.png" width="248">](https://www.udemy.com/course/machine-learning-with-imbalanced-data/?referralCode=F30537642DA57D19ED83)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com)
+Actively maintained.
+
+[<img src="./imbalanced_data_logo.png" width="248">](https://www.courses.trainindata.com/p/machine-learning-with-imbalanced-data)
 
 ## Links
 
-- [Online Course](https://www.udemy.com/course/machine-learning-with-imbalanced-data/?referralCode=F30537642DA57D19ED83)
+- [Online Course](https://www.courses.trainindata.com/p/machine-learning-with-imbalanced-data)
 
 
 ## Table of Contents
