@@ -4,15 +4,17 @@
 
 ## Machine Learning with Imbalanced Data - Code Repository
 
-Published November, 2020
+[<img src="./course-banner.png">](https://www.trainindata.com/p/machine-learning-with-imbalanced-data)
+
+**Launched**: November, 2020
 
 Actively maintained.
 
-[<img src="./imbalanced_data_logo.png" width="248">](https://www.courses.trainindata.com/p/machine-learning-with-imbalanced-data)
+[<img src="./imbalanced_data_logo.png" width="248">](https://www.trainindata.com/p/machine-learning-with-imbalanced-data)
 
 ## Links
 
-- [Online Course](https://www.courses.trainindata.com/p/machine-learning-with-imbalanced-data)
+- [Online Course](https://www.trainindata.com/p/machine-learning-with-imbalanced-data)
 
 
 ## Table of Contents
@@ -77,3 +79,6 @@ Actively maintained.
 	4. Cost Sensitive Learning and Probability Calibration
 	4. Calibrating a Classifier
 
+## Links
+
+- [Online Course](https://www.trainindata.com/p/machine-learning-with-imbalanced-data)
