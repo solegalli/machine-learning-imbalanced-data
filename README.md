@@ -1,4 +1,4 @@
-﻿![PythonVersion](https://img.shields.io/badge/python-3.6%20|3.7%20|%203.8%20|%203.9-success)
+﻿![PythonVersion](https://img.shields.io/badge/python-3.8%20|3.9%20|%203.10%20|%203.11-success)
 [![License https://github.com/solegalli/machine-learning-imbalanced-data/blob/master/LICENSE](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/solegalli/machine-learning-imbalanced-data/blob/master/LICENSE)
 [![Sponsorship https://www.trainindata.com/](https://img.shields.io/badge/Powered%20By-TrainInData-orange.svg)](https://www.trainindata.com/)
 
@@ -7,6 +7,8 @@
 [<img src="./course-banner.png">](https://www.trainindata.com/p/machine-learning-with-imbalanced-data)
 
 **Launched**: November, 2020
+
+**Updated**: August, 2024
 
 Actively maintained.
 
